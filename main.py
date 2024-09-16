@@ -1,1 +1,3 @@
-print("Hello world")
+my_string=input(Динамик)
+
+str.count(input[:])
